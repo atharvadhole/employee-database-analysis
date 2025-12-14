@@ -33,3 +33,4 @@ Relationships are maintained using primary and foreign keys to ensure data integ
 - Writing complex multi-table JOIN queries
 - Using aggregate functions for HR analytics
 - Analyzing employee and salary trends using SQL
+Added detailed README for employee database analysis
